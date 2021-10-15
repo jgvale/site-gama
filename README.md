@@ -1,2 +1,4 @@
-# site-gama
-Projeto Gama News - Grupo 23 Turma 5
+# Projeto Gama Academy - Grupo 6
+
+Repositório grupo 23 Desafio Itaú tech para PCDs
+
